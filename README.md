@@ -20,11 +20,11 @@
     font-family: 'Hahmlet';
     font-weight: 200;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraBold.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraBold.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraBold.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraBold.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraLight.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraLight.ttf') format("truetype");
     font-display: swap;
 }
 @font-face {
